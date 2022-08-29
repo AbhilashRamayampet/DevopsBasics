@@ -1,5 +1,3 @@
-Devops Project
+#Dolly output 
 
-# Dolly output 
-
-<img width="813" alt="first laptop" src="https://user-images.githubusercontent.com/109072044/187159844-603315b5-4ca8-40d4-9ce6-2494e1defd3a.png">
+<img width="813" alt="first laptop" src="https://user-images.githubusercontent.com/109072044/187160383-6b42a672-8813-459d-a9a1-ca4fa2c942ec.png">
